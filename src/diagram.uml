@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="1421.0" y="710.0">Bishop</node>
+    <node x="1758.0" y="1114.0">Selection</node>
+    <node x="287.0" y="1699.0">CoolDownTimer</node>
+    <node x="337.0" y="1114.0">Check</node>
+    <node x="1099.0" y="1699.0">ProtectKing</node>
+    <node x="0.0" y="1699.0">Promotion</node>
+    <node x="277.0" y="732.0">Pawn</node>
+    <node x="1489.0" y="1114.0">Input</node>
+    <node x="971.0" y="688.0">King</node>
+    <node x="1436.0" y="1699.0">credits</node>
+    <node x="746.0" y="710.0">Knight</node>
+    <node x="0.0" y="1114.0">Computer</node>
+    <node x="951.0" y="1114.0">Inputs</node>
+    <node x="1671.0" y="0.0">Settings</node>
+    <node x="863.5" y="0.0">Pieces</node>
+    <node x="1220.0" y="1114.0">Loop</node>
+    <node x="521.0" y="699.0">Rock</node>
+    <node x="1196.0" y="710.0">Queen</node>
+    <node x="1871.0" y="1699.0">ValidationCircle</node>
+    <node x="674.0" y="1114.0">leaderboard</node>
+    <node x="0.0" y="0.0">Game</node>
+    <node x="735.0" y="1699.0">Music</node>
+    <node x="511.0" y="1699.0">Timerr</node>
+    <node x="926.0" y="1699.0">board</node>
+    <node x="1705.0" y="1699.0">Display</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Bishop" target="Pieces">
+      <point x="0.0" y="-83.5" />
+      <point x="1523.5" y="648.0" />
+      <point x="1042.25" y="648.0" />
+      <point x="81.25" y="314.0" />
+    </edge>
+    <edge source="Pawn" target="Pieces">
+      <point x="0.0" y="-61.5" />
+      <point x="389.0" y="648.0" />
+      <point x="879.75" y="648.0" />
+      <point x="-81.25" y="314.0" />
+    </edge>
+    <edge source="Rock" target="Pieces">
+      <point x="0.0" y="-94.5" />
+      <point x="623.5" y="658.0" />
+      <point x="912.25" y="658.0" />
+      <point x="-48.75" y="314.0" />
+    </edge>
+    <edge source="King" target="Pieces">
+      <point x="0.0" y="-105.5" />
+      <point x="1073.5" y="668.0" />
+      <point x="977.25" y="668.0" />
+      <point x="16.25" y="314.0" />
+    </edge>
+    <edge source="Knight" target="Pieces">
+      <point x="0.0" y="-83.5" />
+      <point x="848.5" y="668.0" />
+      <point x="944.75" y="668.0" />
+      <point x="-16.25" y="314.0" />
+    </edge>
+    <edge source="Queen" target="Pieces">
+      <point x="0.0" y="-83.5" />
+      <point x="1298.5" y="658.0" />
+      <point x="1009.75" y="658.0" />
+      <point x="48.75" y="314.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.3242147922998987" x="1030.0" y="977.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
